@@ -48,7 +48,7 @@
       "type": "framework",
       "optional": true,
       "owner": "tsandmann",
-      "version": "https://github.com/tsandmann/teensy-cores.git"
+      "version": "https://github.com/tsandmann/teensy-cores.git/tree/1.56.1"
     },
     "framework-mbed": {
       "type": "framework",
