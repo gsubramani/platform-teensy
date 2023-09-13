@@ -60,7 +60,7 @@
       "type": "uploader",
       "optional": true,
       "owner": "platformio",
-      "version": "1.155.0"
+      "version": "<2"
     },
     "tool-jlink": {
       "type": "uploader",
