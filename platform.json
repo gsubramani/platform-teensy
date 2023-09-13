@@ -48,7 +48,7 @@
       "type": "framework",
       "optional": true,
       "owner": "tsandmann",
-      "version": "https://github.com/tsandmann/teensy-cores.git#1.156.1"
+      "version": "https://github.com/tsandmann/teensy-cores.git#1.56.1"
     },
     "framework-mbed": {
       "type": "framework",
@@ -76,7 +76,7 @@
     "toolchain-arm-cortexm-linux": {
       "type": "toolchain",
       "owner": "tsandmann",
-      "version": "https://github.com/tsandmann/arm-cortexm-toolchain-linux.git#11.2.0"
+      "version": "https://github.com/tsandmann/arm-cortexm-toolchain-linux.git#v11.2-1"
     },
     "toolchain-arm-cortexm-win64": {
       "type": "toolchain",
